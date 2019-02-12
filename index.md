@@ -2,7 +2,7 @@
 
 Welcome to our World Fixing Web site here at GitHub. Our goal is to Fix many of the global issues, including World Poverty and now the most urgent Issue: Global Warming - a major aspect of Climate Change.
 
-Please check out our Repository: fixing-global-warming [[1]](https://github.com/WorldFixing/Fix-Global-Warming) where we propose a very Simple yet Guaranteed strategy to reduce Carbon Dioxide in the Atmosphere, at a level consistent with the reductions proposed by IPCC in their Oct 8, 2018 Report [[2]](https://report.ipcc.ch/sr15/pdf/sr15_spm_final.pdf)
+Please check out our Repository: Fix-Global-Warming [[1]](https://github.com/WorldFixing/Fix-Global-Warming) where we propose a very Simple yet Guaranteed strategy to reduce Carbon Dioxide in the Atmosphere, at a level consistent with the reductions proposed by IPCC in their Oct 8, 2018 Report [[2]](https://report.ipcc.ch/sr15/pdf/sr15_spm_final.pdf)
 
 
 
