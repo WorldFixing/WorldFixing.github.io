@@ -1,0 +1,10 @@
+# WorldFixing.github.io
+
+Our New Web Site at GitHub is helping us get familiar with maintaining code,
+programs and systems in an organized fashion. To date(today), we created
+this web site and added a slide show we prepared earlier outlining the 
+Project to reduce CO2 in the Atmosphere to allow the world to catch up
+with new technology that will truly be Sustainable and non-Polluting.
+
+If you agree with some of what we are doing, please Share with others,
+that is one of the Secrets of this New Paragigm - Sharing...
